@@ -1,7 +1,7 @@
 import { React, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {faFacebook, faInstagram} from "@fortawesome/free-brands-svg-icons";
 import {faCartShopping, faMagnifyingGlass} from "@fortawesome/free-solid-svg-icons";
+import {faFacebook, faInstagram} from "@fortawesome/free-brands-svg-icons";
 
 function Nav(props) {
     
